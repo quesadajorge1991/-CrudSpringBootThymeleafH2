@@ -60,6 +60,12 @@ mvn clean install
 ```
 After the maven downloaded all dependencies, run the **Application.class**.
 
+## Run Spring Boot application
+
+```
+mvn spring-boot:run
+```
+
 
 
 
