@@ -1,8 +1,9 @@
-# -CrudSpringBootThymeleafH2
+# CrudSpringBootThymeleafH2
 Thymeleaf 3, Spring boot 3, Spring Security 6 and H2
 
 
-Crud de ejemplo con Spring boot 3, Spring Security 6, Thymeleaf 3, JQuery, Ajax
+
+## Crud de ejemplo con Spring boot 3, Spring Security 6, Thymeleaf 3, JQuery, Ajax
 
 *Proyecto de ejemplo donde se hace uso de:
 
@@ -49,6 +50,19 @@ Nota: Mediante la ruta  “/h2-console” es posible acceder a la consola de adm
  -Spring Security 6 
  
  -Thymeleaf 3
+ 
+ ## How can i test my endpoints?
+ 
+ First, open your preference code editor and run the following code below:
+ 
+ ```
+mvn clean install
+```
+After the maven downloaded all dependencies, run the **Application.class**.
+
+
+
+
 
 
 *Credentials 
